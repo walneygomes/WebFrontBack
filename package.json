@@ -1,0 +1,32 @@
+{
+  "name": "walney",
+  "version": "1.0.0",
+  "description": "projeto www",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-mongoose": "^0.1.0",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.10.13",
+    "node-restful": "^0.2.6"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/walneygomes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/github.com/walneygomes/issues"
+  },
+  "homepage": "https://github.com/github.com/walneygomes#readme"
+}
